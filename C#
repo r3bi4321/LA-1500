@@ -8,9 +8,11 @@ namespace test
         static void Main(string[] args)
         {
 
-
+            
             string fileName = @"C:\Users\Tobin\OneDrive\Pictures\Wallpaper\Desktop\fff\file.txt";
 
+            //Kopiert von https://www.c-sharpcorner.com/UploadFile/mahesh/create-a-text-file-in-C-Sharp/
+            
             try
             {
                 // Create a new file     
