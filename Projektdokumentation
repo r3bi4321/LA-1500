@@ -6,7 +6,7 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 21.02.2023 | 0.0.1   | Thema ausgewählt und 1.1-1.4 angefangen  |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -14,16 +14,24 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir programmieren eine Windows-Schnitzeljagd.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die man suchen muss. Dazu wird beim Starten eine Textdatei auf dem Desktop generiert, die gewisse Hinweise liefert. Beim Finden der gesuchten Datei werden die Zeit und Punkte ausgegeben. Dabei erhoffen wir uns mehr über Dateipfade und über Windows zu lernen und unser Wissen zu vertiefen.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | Muss            |Funktional| Als Programmierer möchte ich, dass eine Datei erstellt wird.|
+| 2    | Muss            |Funktional| Als Programmierer möchte ich, dass es Hinweise zur 2. Datei gibt.|
+| 3    | Muss            |Funktional| Als Programmierer möchte ich, dass eine 2. Datei auf dem Computer versteckt wird.| 
+| 4    | Muss            |Funktional| Als Programmierer möchte ich, dass die Zeit beim Öffnen der 1. Datei gestartet wird.|
+| 5    | Muss            |Funktional| Als Programmierer möchte ich, dass die Datei nicht immer am selben Ort versteckt wird.|
+| 6    | Muss            |Funktional| Als Programmierer möchte ich, dass es für die besseren Zeiten mehr Punkte gibt.|
+| 7    | Muss            |Funktional| Als Programmierer möchte ich, dass die Zeit gestoppt wird, wenn die Datei gefunden und geöffnet habe.|
+| 8    | Muss            |Funktional| Als Programmierer möchte ich, dass mir die Zeit und die Punktezahl angezeigt wird.| 
+| 9    | Muss            |Funktional| Als Programmierer möchte ich, dass mir Angezeigt werden, wie viele Dateien ich während der Schnitzeljagd geöffnet habe.|
+| 10   | Muss            |Funktional| Als Programmierer möchte ich, dass die erste Datei auf dem Desktop gespeichert wird.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
