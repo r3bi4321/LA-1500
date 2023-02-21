@@ -34,7 +34,6 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 | 9    | Muss            |Funktional| Als Programmierer möchte ich, dass mir Angezeigt werden, wie viele Dateien ich während der Schnitzeljagd geöffnet habe.|
 | 10   | Muss            |Funktional| Als Programmierer möchte ich, dass die erste Datei auf dem Desktop gespeichert wird.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -47,7 +46,12 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+![UseCase-Diagramm-LA1500](https://user-images.githubusercontent.com/110892622/220322534-37401d51-f5bd-4292-bfd4-ab9487b0ab3c.jpg)
+![Screenshot 2023-02-21 114017](https://user-images.githubusercontent.com/110892622/220323035-7136533b-49fd-4811-894b-1d9a9a6cf714.jpg)
+![Screenshot 2023-02-21 114046](https://user-images.githubusercontent.com/110892622/220323048-af9ebbdc-c5a3-433f-9da4-c0de2a475aea.jpg)
+![Screenshot 2023-02-21 114100](https://user-images.githubusercontent.com/110892622/220323058-ebb3bd9e-c10f-4563-b20e-a3d2c123c4e8.jpg)
+![Screenshot 2023-02-21 114116](https://user-images.githubusercontent.com/110892622/220323064-213019f9-ea46-4b36-9406-43843471129f.jpg)
+![Screenshot 2023-02-21 114131](https://user-images.githubusercontent.com/110892622/220323096-686cd58e-5e52-446d-a54a-374cc08db5e6.jpg)
 
 ## 2 Planen
 
