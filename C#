@@ -1,0 +1,40 @@
+using System;
+using System.Text;
+
+namespace test 
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+
+            string fileName = @"C:\Users\Tobin\OneDrive\Pictures\Wallpaper\Desktop\fff\file.txt";
+
+            try
+            {
+                // Create a new file     
+                using (FileStream fs = File.Create(fileName))
+                {
+                    // Add some text to file    
+                    Byte[] text = new UTF8Encoding(true).GetBytes("Hello World");
+                    fs.Write(text, 0, text.Length);
+                }
+
+                // Open the stream and read it back.    
+                using (StreamReader sr = File.OpenText(fileName))
+                {
+                    string s = "";
+                    while ((s = sr.ReadLine()) != null)
+                    {
+                        Console.WriteLine(s);
+                    }
+                }
+            }
+            catch (Exception Ex)
+            {
+                Console.WriteLine(Ex.ToString());
+            }
+        }
+    }
+}
