@@ -69,7 +69,7 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 | 14.1 | Programm offen | Spiel starten| "Hilfe" Knopf erscheint|
 | 14.2 | Spiel gestartet| Hilfe Knopf klicken| Regeln des Spiels erscheinen|
 | 15.1 |  Programm offen| Spiel starten| Winformsapplikation|
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
