@@ -35,17 +35,17 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 | 12  | Muss            |Funktional| Als User möchte ich, wenn man die Datei nicht findet eine Möglichkeit besteht, die Datei zu lokalisieren, damit man das Spiel auch beim Nicht-finden der Datei beenden kann.|
 | 13  | Muss            | Funktional| Als User möchte ich, dass die Datei nicht in Windows veränderte Ordner generiet wird, damit man dem Computer keinen Schaden zufügt.|
 | 14 | Kann             | Optional| Als User möchte ich, dass beim Starten des Spiels eine Anleitung zu finden ist, damit ein Spieler versteht was zu tun ist.|
-|15 | Kann              | Rand| Als User möchte ich, dass das Speil eine Konsolenapplikation ist.| 
+|15 | Kann              | Rand| Als User möchte ich, dass das Spiel eine Winformsapplikation ist.| 
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Programm ist geöffnet | Programm starten| Datei erscheint auf Desktop|
-| 2.1  |Datei wurde erstellt | Datei öffnen| Die Datei ist an einem Ort versteckt...|
-| 3.1  | Programm ist geöffnet| Programm starten| Die Datei wurde versteckt|
-| 4.1  | Datei wurde erstelt| Datei öffnen| Timer startet| 
-| 4.2  |Datei wurde erstellt| Datei öffnen| Timer beginnt bei 0|
+| 1.1  | Programm vorhanden | Programm starten| Datei erscheint auf Desktop|
+| 2.1  |Datei wurde erstellt | | Die Datei ist an einem Ort versteckt...|
+| 3.1  | Programm vorhanden| Programm starten| Die Datei wurde versteckt|
+| 4.1  | Datei wurde erstellt/ Spiel gestartet| | Timer startet| 
+| 4.2  |Datei wurde erstellt/ Spiel gestartet| | Timer beginnt bei 0|
 | 5.1  | Spiel einaml gespielt und Datei gefunden| Spiel erneut starten| Datei befindet sich nicht am selben Ort|
 | 6.1  | Datei gefunden| Datei öffnen| Zeit xx:xx Punkte yyy|
 | 6.2  | Datei gefunden| Datei öffnen| Zeit aa:aa Punkte cc|
@@ -60,15 +60,15 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 | 10.1 | Datei befindet sich auf Desktop| Datei öffnen| Datei öffnet sich| 
 | 10.2 |Datei befindet sich auf Desktop| Datei öffnen| Hinweise befinden sich in der Datei|
 | 11.1 |Spiel beenden| Spiel starten| Sind sie sicher, dass sie bereits ein neues Spiel starten möchten?| 
-| 11.2 |Speil beenden| 1 Minute warten , dann das Speil starten| Spiel startet| 
+| 11.2 |Spiel beenden| 1 Minute warten , dann das Spiel starten| Spiel startet| 
 | 11.3 |Spiel beenden| Dateien löschen und Spiel neu starten| Spiel startet| 
 | 12.1 |1. Datei geöffnet und 2. Datei nicht gefunden| Button zur Auflösung klicken| Die Datei befindet sich ...| 
 | 12.2 |Button zur Auflösung geklickt und gesehen wo sich die Datei befindet| Spiel beenden | Ihre Zeit: Datei nicht gefunden. Ihre Punkte: 0|
 | 13.1 | Spiel gestartet| Datei finden| befindet sich im Ordner Schulmaterial|
 | 13.2 | Spiel gestartet| Datei finden| befindet sich bei den Downloads|
-| 14.1 | Programm offen | Spiel starten| Hilfe Knopf erscheint|
+| 14.1 | Programm offen | Spiel starten| "Hilfe" Knopf erscheint|
 | 14.2 | Spiel gestartet| Hilfe Knopf klicken| Regeln des Spiels erscheinen|
-| 15.1 |  Programm offen| Spiel starten| Konsole|
+| 15.1 |  Programm offen| Spiel starten| Winformsapplikation|
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
