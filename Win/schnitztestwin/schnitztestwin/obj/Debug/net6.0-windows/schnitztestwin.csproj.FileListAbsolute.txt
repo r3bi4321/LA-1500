@@ -1,0 +1,17 @@
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\bin\Debug\net6.0-windows\schnitztestwin.exe
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\bin\Debug\net6.0-windows\schnitztestwin.deps.json
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\bin\Debug\net6.0-windows\schnitztestwin.runtimeconfig.json
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\bin\Debug\net6.0-windows\schnitztestwin.dll
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\bin\Debug\net6.0-windows\schnitztestwin.pdb
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\schnitztestwin.csproj.AssemblyReference.cache
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\schnitztestwin.Form1.resources
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\schnitztestwin.csproj.GenerateResource.cache
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\schnitztestwin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\schnitztestwin.AssemblyInfoInputs.cache
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\schnitztestwin.AssemblyInfo.cs
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\schnitztestwin.csproj.CoreCompileInputs.cache
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\schnitztestwin.dll
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\refint\schnitztestwin.dll
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\schnitztestwin.pdb
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\schnitztestwin.genruntimeconfig.cache
+C:\Users\Tobin\source\repos\schnitztestwin\schnitztestwin\obj\Debug\net6.0-windows\ref\schnitztestwin.dll
