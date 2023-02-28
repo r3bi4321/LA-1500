@@ -21,17 +21,21 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | Muss            |Funktional| Als Programmierer möchte ich, dass eine Datei erstellt wird.|
-| 2    | Muss            |Funktional| Als Programmierer möchte ich, dass es Hinweise zur 2. Datei gibt.|
-| 3    | Muss            |Funktional| Als Programmierer möchte ich, dass eine 2. Datei auf dem Computer versteckt wird.| 
-| 4    | Muss            |Funktional| Als Programmierer möchte ich, dass die Zeit beim Öffnen der 1. Datei gestartet wird.|
-| 5    | Muss            |Funktional| Als Programmierer möchte ich, dass die Datei nicht immer am selben Ort versteckt wird.|
-| 6    | Muss            |Funktional| Als Programmierer möchte ich, dass es für die besseren Zeiten mehr Punkte gibt.|
-| 7    | Muss            |Funktional| Als Programmierer möchte ich, dass die Zeit gestoppt wird, wenn die Datei gefunden und geöffnet habe.|
-| 8    | Muss            |Funktional| Als Programmierer möchte ich, dass mir die Zeit und die Punktezahl angezeigt wird.| 
-| 9    | Muss            |Funktional| Als Programmierer möchte ich, dass mir Angezeigt werden, wie viele Dateien ich während der Schnitzeljagd geöffnet habe.|
-| 10   | Muss            |Funktional| Als Programmierer möchte ich, dass die erste Datei auf dem Desktop gespeichert wird.|
-
+| 1    | Muss            |Funktional| Als User möchte ich, dass eine Datei auf dem Desktop erstellt wird, damit man einen Hinweis für die versteckte Datei hat .|
+| 2    | Muss            |Funktional| Als User möchte ich, dass es Hinweise zur 2. Datei gibt, damit das Finden der Datei eimfacher ist.|
+| 3    | Muss            |Funktional| Als User möchte ich, dass eine 2. Datei auf dem Computer sicher versteckt wird, damit man das Spiel spielen kann und die Datei suchen kann .| 
+| 4    | Muss            |Funktional| Als User möchte ich, dass die Zeit beim Öffnen der 1. Datei gestartet wird, damit man die Zeit tracken kann. |
+| 5    | Kann            |Optional | Als Programmierer möchte ich, dass die Datei nicht immer am selben Ort versteckt wird, damit das Spiel nicht langweilig und zu einfach wird.|
+| 6    | Muss            |Funktional| Als User möchte ich, dass es für die besseren Zeiten mehr Punkte gibt, damit man sieht ob man sich verbessert.|
+| 7    | Muss            |Funktional| Als User möchte ich, dass die Zeit gestoppt wird, wenn die Datei gefunden und geöffnet wird, damit das Tracken der Zeit möglich ist.|
+| 8    | Muss            |Funktional| Als User möchte ich, dass mir die Zeit und die Punktezahl angezeigt wird, damit man seine Zeit und Punktezahl anschauen kann.| 
+| 9    | Kann            |Optional| Als User möchte ich, dass mir Angezeigt wird, wie viele Dateien ich während der Schnitzeljagd geöffnet habe, damit ich weitere Informationen für meine Verbesserung habe.|
+| 10   | Muss           |Funktional| Als User möchte ich, dass das Spiel fehlerfrei funktioniert, damit man das Spiel gut spielen kann.|
+| 11|  Muss             |Funktional| Als User möchte ich, das man das Programm nicht zweimal nacheinander ausführen kann, damit man einen Datensalat auf dem Computer verhindert.|
+| 12  | Muss            |Funktional| Als User möchte ich, wenn man die Datei nicht findet eine Möglichkeit besteht, die Datei zu lokalisieren, damit man das Spiel auch beim Nicht-finden der Datei beenden kann.|
+| 13  | Muss            | Funktional| Als User möchte ich, dass die Datei nicht Windows veränderte Ordner generiet wird, damit man dem Computer keinen Schaden zufügt.|
+| 14 | Kann             | Optional| Als User möchte ich, dass beim Starten des Spiels eine Anleitung zu finden ist, damit ein Spieler versteht was zu tun ist.|
+|15 | Kann              | Rand| Als User möchte ich, dass das Speil eine Konsolenapplikation ist.| 
 
 ### 1.3 Testfälle
 
