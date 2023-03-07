@@ -30,7 +30,7 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 | 7    | Muss            |Funktional| Als User möchte ich, dass die Zeit gestoppt wird, wenn die Datei gefunden und geöffnet wird, damit das Tracken der Zeit möglich ist.|
 | 8    | Muss            |Funktional| Als User möchte ich, dass mir die Zeit und die Punktezahl angezeigt wird, damit man seine Zeit und Punktezahl anschauen kann.| 
 | 9    | Kann            |Optional| Als User möchte ich, dass mir Angezeigt wird, wie viele Dateien ich während der Schnitzeljagd geöffnet habe, damit ich weitere Informationen für meine Verbesserung habe.|
-| 10   | Muss           |Funktional| Als User möchte ich, dass das Spiel fehlerfrei funktioniert, damit man das Spiel gut spielen kann.|
+| 10   | Muss           |Funktional| Als User möchte ich, dass das Programm Fehler abfängt, damit das Programm nicht abstürzt.|
 | 11|  Muss             |Funktional| Als User möchte ich, das man das Programm nicht zweimal nacheinander ausführen kann, damit man einen Datensalat auf dem Computer verhindert.|
 | 12  | Muss            |Funktional| Als User möchte ich, wenn man die Datei nicht findet eine Möglichkeit besteht, die Datei zu lokalisieren, damit man das Spiel auch beim Nicht-finden der Datei beenden kann.|
 | 13  | Muss            | Funktional| Als User möchte ich, dass die Datei nicht in Windows veränderte Ordner generiet wird, damit man dem Computer keinen Schaden zufügt.|
