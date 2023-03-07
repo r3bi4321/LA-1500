@@ -6,8 +6,8 @@ Willi, Pinto, Oestrich, Mitrovic
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 21.02.2023 | 0.0.1   | Thema ausgewählt und 1.1-1.4 angefangen  |
-| 28.02.2023 | 0.0.2     | Userstorys Testfälle und Planung/Realisierung: Pfadextraktion und Recherche             |
-|       | 1.0.0   |                                                              |
+| 28.02.2023 | 0.0.2   | Userstorys Testfälle und Planung/Realisierung: Pfadextraktion und Recherche          |
+| 7.03.2023  | 0.0.3   |                                                             |
 
 ## 1 Informieren
 
@@ -98,32 +98,27 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 | 11.A | 14.03.2023| Rebecca Willi und Filip Mitrovic  |  Realisierung der Auflösungsfunktion   |  2  |
 | 12.A | 14.03.2023|  Tobin Pinto und Pascal Oestrich |  Überprüfung der Dateigenerierung in einem geeigneten Ordner |  1 |
 | 13.A | 21.03.2023| Filip Mitrovic | Realisierung der Spielanleitung| 1| 
-| 14.A | 21.03.2023 |Alle |Projektdokumentation: Entscheidung Kontrolle und Exploratives Testen| 1.5|
-| 15.A | 28.03.2023|Alle | Vorbereitung Präsentation| 2|
-| 16.A | 04.04.2023|Alle | Bearbeiten des Lernberichts| 5| 
+| 14.A | 21.03.2023| Pascal Oestrich | Design des Startbildschirms| 1 | 
+| 15.A | 21.03.2023| Rebecca Willi   | Design Lösungsbildschirm   | 1 | 
+| 16.A | 21.03.2023 |Alle |Projektdokumentation: Entscheidung Kontrolle und Exploratives Testen| 1.5|
+| 17.A | 28.03.2023|Alle | Vorbereitung Präsentation| 2|
+| 18.A | 04.04.2023|Alle | Bearbeiten des Lernberichts| 5| 
 
 
-Total: 26.5
+Total: 28.5
 1 Arbeitsblock = 45 min
 
 
 ## 3 Entscheiden
 
 1.
-Neue Arbeitspakete
-
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-|17.A | 21.03.2023| Pascal Oestrich | Design des Startbildschirms| 1 | 
-|18.A | 21.03.2023| Rebecca Willi   | Design Lösungsbildschirm   | 1 | 
-
-Total Arbeitsblöcke : 28.5
+Wir haben uns entschieden, dass wir eine WinForms Applikation schreiben, da wir ein Inrerface erstellen möchten, um das Programm übersichtlicher zu gestalten
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  | 21.02.2023 | Alle     |               |                   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
