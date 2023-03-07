@@ -42,10 +42,10 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Programm vorhanden | Programm starten| Datei erscheint auf Desktop|
-| 2.1  |Datei wurde erstellt | | Die Datei ist an einem Ort versteckt...|
+| 2.1  |Datei wurde erstellt | **Keine Eingabe** | Die Datei ist an einem Ort versteckt...|
 | 3.1  | Programm vorhanden| Programm starten| Die Datei wurde versteckt|
-| 4.1  | Datei wurde erstellt/ Spiel gestartet| | Timer startet| 
-| 4.2  |Datei wurde erstellt/ Spiel gestartet| | Timer beginnt bei 0|
+| 4.1  | Datei wurde erstellt/ Spiel gestartet|**Keine Eingabe**  | Timer startet| 
+| 4.2  |Datei wurde erstellt/ Spiel gestartet|**Keine Eingabe**  | Timer beginnt bei 0|
 | 5.1  | Spiel einaml gespielt und Datei gefunden| Spiel erneut starten| Datei befindet sich nicht am selben Ort|
 | 6.1  | Datei gefunden| Datei öffnen| Zeit xx:xx Punkte yyy|
 | 6.2  | Datei gefunden| Datei öffnen| Zeit aa:aa Punkte cc|
