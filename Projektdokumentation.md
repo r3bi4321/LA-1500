@@ -110,10 +110,14 @@ Total: 26.5
 ## 3 Entscheiden
 
 1.
-Neues Arbeitspaket
-|17.A | 21.03.2023| Pascal Oestrich | Design des Startbildschirms| 1 | 
+Neue Arbeitspakete
 
-Total Arbeitsblöcke : 27.5
+| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| ---- | ----- | --------- | ------------ | ------------- |
+|17.A | 21.03.2023| Pascal Oestrich | Design des Startbildschirms| 1 | 
+|18.A | 21.03.2023| Rebecca Willi   | Design Lösungsbildschirm   | 1 | 
+
+Total Arbeitsblöcke : 28.5
 
 ## 4 Realisieren
 
