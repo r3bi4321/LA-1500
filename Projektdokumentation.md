@@ -109,7 +109,11 @@ Total: 26.5
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+1.
+Neues Arbeitspaket
+|17.A | 21.03.2023| Pascal Oestrich | Design des Startbildschirms| 1 | 
+
+Total Arbeitsblöcke : 27.5
 
 ## 4 Realisieren
 
