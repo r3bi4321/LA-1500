@@ -128,7 +128,7 @@ Wir haben uns entschieden, dass wir eine WinForms Applikation schreiben, da wir 
 | 8.A  | 7.03.2023  | Filip Mitrovic              | 1.5|  1    |
 | 9.A  | 7.03.2023  | Filip Mitrovic              | 1.5|  1    | 
 | 10.A |            |                             |    |       |
-| 11.A | 7.03.2023  | Rebecca Willi               | 2  |  2    | 
+| 11.A | 7.03.2023  | Rebecca Willi               | 2  |  3    | 
 | 12.A |            |                             |    |       |
 | 13.A |            |                             |    |       |
 | 14.A | 7.03.2023  | Pascal Oestrich             | 1  |  2    |
