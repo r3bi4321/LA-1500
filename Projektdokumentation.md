@@ -101,11 +101,12 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 | 14.A | 21.03.2023| Pascal Oestrich | Design des Startbildschirms| 1 | 
 | 15.A | 21.03.2023| Rebecca Willi   | Design Lösungsbildschirm   | 1 | 
 | 16.A | 21.03.2023 |Alle |Projektdokumentation: Entscheidung Kontrolle und Exploratives Testen| 1.5|
-| 17.A | 28.03.2023|Alle | Vorbereitung Präsentation| 2|
-| 18.A | 04.04.2023|Alle | Bearbeiten des Lernberichts| 5| 
+| 17.A | 21.03.2023|Alle | Vorbereitung Präsentation| 2|
+| 18.A | 28.03.2023|Alle | Kontrolle Präsentation | 0.5 |
+| 19.A | 04.04.2023|Alle | Bearbeiten des Lernberichts| 5| 
 
 
-Total: 28.5
+Total: 29
 1 Arbeitsblock = 45 min
 
 
