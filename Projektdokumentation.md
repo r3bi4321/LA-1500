@@ -69,7 +69,7 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 | 13.2 | Spiel gestartet| Datei finden| befindet sich bei den Downloads|
 | 14.1 | Programm offen | Spiel starten| "Hilfe" Knopf erscheint|
 | 14.2 | Spiel gestartet| Hilfe Knopf klicken| Regeln des Spiels erscheinen|
-| 15.1 |  Programm offen| Spiel starten| Winformsapplikation|
+| 15.1 | Desktop | Programm starten| Winformsapplikation öffnet sich|
 
 
 ### 1.4 Diagramme
@@ -85,10 +85,10 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 21.02.2023| Alle  | Projektdokumentation: Userstory   | 1   |
-| 2.A  | 21.02.2023| Rebecca Willi| PAP | 1| 
-| 3.A  | 21.02.2023| Filip Mitrovic  |  USE Case Diagramm    |   1 |
-| 4.A  | 28.02.2023|Alle       | Projektdokumentation: Testfälle und Planung       |   1 |
+| 0.A  | 21.02.2023| Alle  | Projektdokumentation: Userstory   | 1   |
+| 0.B  | 21.02.2023| Rebecca Willi| PAP | 1| 
+| 0.C  | 21.02.2023| Filip Mitrovic  |  USE Case Diagramm    |   1 |
+| 0.D  | 28.02.2023|Alle       | Projektdokumentation: Testfälle und Planung       |   1 |
 | 5.A  | 28.02.2023| Pascal Oestrich, Tobin Pinto |  Realisierung Pfadextraktion MyDocuments, MyDesktop, MyPicture und MyVideos  | 2  |
 | 6.A  | 28.02.2023| Rebecca Willi Filip Mitrovic | Rechere Winforms und Dateipfadextraktion  |    2    |
 | 7.A  | 07.03.2023| Tobin Pinto  | Realisierung der Stoppuhr             |     1    |
@@ -97,14 +97,14 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 | 9.A  | 07.03.2023 | Pascal Oestrich     | Fehlerüberprüfung     |     0.5          |
 | 10.A | 14.03.2023 |  Tobin Pinto     | Realisieren für das Verhinder des Datensalats  |     1.5    |
 | 11.A | 14.03.2023| Rebecca Willi und Filip Mitrovic  |  Realisierung der Auflösungsfunktion   |  2  |
-| 12.A | 14.03.2023|  Tobin Pinto und Pascal Oestrich |  Überprüfung der Dateigenerierung in einem geeigneten Ordner |  1 |
+| 12.A | 14.03.2023|  Tobin Pinto und Pascal Oestrich |  Realisierung für die Überprüfung der Dateigenerierung in einem geeigneten Ordner |  1 |
 | 13.A | 21.03.2023| Filip Mitrovic | Realisierung der Spielanleitung| 1| 
-| 14.A | 21.03.2023| Pascal Oestrich | Design des Startbildschirms| 1 | 
-| 15.A | 21.03.2023| Rebecca Willi   | Design Lösungsbildschirm   | 1 | 
-| 16.A | 21.03.2023 |Alle |Projektdokumentation: Entscheidung Kontrolle und Exploratives Testen| 1.5|
-| 17.A | 21.03.2023|Alle | Vorbereitung Präsentation| 2|
-| 18.A | 28.03.2023|Alle | Kontrolle Präsentation | 0.5 |
-| 19.A | 04.04.2023|Alle | Bearbeiten des Lernberichts| 5| 
+| 14.A | 21.03.2023| Pascal Oestrich & Rebecca Willi| Design des Startbildschirms| 2 | 
+| 15.A | 21.03.2023| Alle                            |  Fertiges Programm mit Fehlerbehebung auf Winforms realisieren  |   0.5    |
+| 0.E | 21.03.2023 |Alle |Projektdokumentation: Entscheidung Kontrolle und Exploratives Testen| 1.5|
+| 0.F | 21.03.2023|Alle | Vorbereitung Präsentation| 2|
+| 0.G | 28.03.2023|Alle | Kontrolle Präsentation | 0.5 |
+| 0.H | 04.04.2023|Alle | Bearbeiten des Lernberichts| 5| 
 
 
 Total: 29
@@ -120,25 +120,25 @@ Wir haben uns entschieden, dass wir eine WinForms Applikation schreiben, da wir 
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 21.02.2023 | Alle                        |  1 |  2    |
-| 2.A  | 21.02.2023 | Rebecca Willi               |  1 |  1    |  
-| 3.A  | 21.02.2023 | Filip Mitrovic              |  1 |  1    |
-| 4.A  | 28.02.2023 | Alle                        |  1 |  2    | 
+| 0.A  | 21.02.2023 | Alle                        |  1 |  2    |
+| 0.B  | 21.02.2023 | Rebecca Willi               |  1 |  1    |  
+| 0.C  | 21.02.2023 | Filip Mitrovic              |  1 |  1    |
+| 0.D  | 28.02.2023 | Alle                        |  1 |  2    | 
 | 5.A  | 28.02.2023 | Pascal Oestrlich Tobin Pinto| 2  |  2    |
 | 6.A  | 28.02.2023 | Rebecca Willi Filip Mitrovic| 2  |  2    |
 | 7.A  | 07.03.2023  | Tobin Pinto                 | 1  |  1    |
 | 8.A  | 07.03.2023  | Filip Mitrovic              | 1.5|  1    |
 | 9.A  | 07.03.2023  | Filip Mitrovic              | 1.5|  1    | 
 | 10.A | 07.03.2023  |  Tobin Pinto                |  1  |  1.5 |
-| 11.A |             |                             |    |       | 
-| 12.A |            |                             |    |       |
-| 13.A |            |                             |    |       |
-| 14.A | 07.03.2023  | Pascal Oestrich             | 1  |  2    |
+| 11.A | 14.03.2023  | Tobin Pinto                 |  2  |   1.5    | 
+| 12.A | 14.03.2023  | Pascal Oeswtrich & Tobin Pinto|  1  |   1    |
+| 13.A | 14.03.2023  | Tobin Pinto                   |  1  |   1    |
+| 14.A |            |                                |     |        |
 | 15.A |            |                             |    |       |
-| 16.A |            |                             |    |       |
-| 17.A |            |                             |    |       |
-| 18.A |            |                             |    |       |
-| 19.A |            |                             |    |       |
+| 0.E |            |                             |    |       |
+| 0.F |            |                             |    |       |
+| 0.G |            |                             |    |       |
+| 0.H |            |                             |    |       |
 
 
 ## 5 Kontrollieren
