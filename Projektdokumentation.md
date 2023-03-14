@@ -101,10 +101,6 @@ Beim ausführen des Projekts wird zufällig eine Datei im System generiert, die 
 | 13.A | 21.03.2023| Filip Mitrovic | Realisierung der Spielanleitung| 1| 
 | 14.A | 21.03.2023| Pascal Oestrich & Rebecca Willi| Design des Startbildschirms| 2 | 
 | 15.A | 21.03.2023| Alle                            |  Fertiges Programm mit Fehlerbehebung auf Winforms realisieren  |   0.5    |
-| 0.E | 21.03.2023 |Alle |Projektdokumentation: Entscheidung Kontrolle und Exploratives Testen| 1.5|
-| 0.F | 21.03.2023|Alle | Vorbereitung Präsentation| 2|
-| 0.G | 28.03.2023|Alle | Kontrolle Präsentation | 0.5 |
-| 0.H | 04.04.2023|Alle | Bearbeiten des Lernberichts| 5| 
 
 
 Total: 29
@@ -135,10 +131,6 @@ Wir haben uns entschieden, dass wir eine WinForms Applikation schreiben, da wir 
 | 13.A | 14.03.2023  | Tobin Pinto                   |  1  |   1    |
 | 14.A |            |                                |     |        |
 | 15.A |            |                             |    |       |
-| 0.E |            |                             |    |       |
-| 0.F |            |                             |    |       |
-| 0.G |            |                             |    |       |
-| 0.H |            |                             |    |       | 
 
 
 ## 5 Kontrollieren
