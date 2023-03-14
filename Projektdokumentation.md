@@ -138,7 +138,7 @@ Wir haben uns entschieden, dass wir eine WinForms Applikation schreiben, da wir 
 | 0.E |            |                             |    |       |
 | 0.F |            |                             |    |       |
 | 0.G |            |                             |    |       |
-| 0.H |            |                             |    |       |
+| 0.H |            |                             |    |       | 
 
 
 ## 5 Kontrollieren
