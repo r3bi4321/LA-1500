@@ -130,7 +130,7 @@ Wir haben uns entschieden, dass wir eine WinForms Applikation schreiben, da wir 
 | 11.A | 14.03.2023  | Tobin Pinto                 |  2  |   1.5    | 
 | 12.A | 14.03.2023  | Pascal Oeswtrich & Tobin Pinto|  1  |   1    |
 | 13.A | 14.03.2023  | Tobin Pinto                   |  1  |   1    |
-| 14.A |            |                                |     |        |
+| 14.A | 14.03.2023  |  Pascal Oestrich & Rebecca            |  2   |   2     |
 | 15.A |            |                             |    |       |
 
 
