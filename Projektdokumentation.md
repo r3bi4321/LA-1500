@@ -8,6 +8,7 @@ Willi, Pinto, Oestrich, Mitrovic
 | 21.02.2023 | 0.0.1   | Thema ausgewählt und 1.1-1.4 angefangen                                     |
 | 28.02.2023 | 0.0.2   | Userstorys Testfälle und Planung/Realisierung: Pfadextraktion und Recherche |
 | 7.03.2023  | 0.0.3   | Realisierung der Arbeitspakete Bearbeitung Kapitel 4                        |
+| 14.03.2023 | 0.0.4   | Realisierung der Arbeitspakete, Korrektur/Aufarbeitung Projektdokumentation | 
 
 
 ## 1 Informieren
@@ -141,7 +142,33 @@ Wir haben uns entschieden, dass wir eine WinForms Applikation schreiben, da wir 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
-| ...  |       |          |        |
+| 2.1  |       |          |        |
+| 3.1  |       |          |        |
+| 4.1  |       |          |        |
+| 4.2  |       |          |        |
+| 5.1  |       |          |        |
+| 6.1  |       |          |        |
+| 6.2  |       |          |        |
+| 6.3  |       |          |        |
+| 7.1  |       |          |        |
+| 8.1  |       |          |        |
+| 8.2  |       |          |        |
+| 8.3  |       |          |        |
+| 9.1  |       |          |        |
+| 9.2  |       |          |        |
+| 9.3  |       |          |        |
+| 10.1 |       |          |        |
+| 10.2 |       |          |        |
+| 11.1 |       |          |        |
+| 11.2 |       |          |        |
+| 11.3 |       |          |        |
+| 12.1 |       |          |        |
+| 12.2 |       |          |        |
+| 13.1 |       |          |        |
+| 13.2 |       |          |        |
+| 14.1 |       |          |        |
+| 14.2 |       |          |        |
+| 15.1 |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
