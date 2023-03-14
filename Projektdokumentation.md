@@ -8,6 +8,7 @@ Willi, Pinto, Oestrich, Mitrovic
 | 21.02.2023 | 0.0.1   | Thema ausgewählt und 1.1-1.4 angefangen                                     |
 | 28.02.2023 | 0.0.2   | Userstorys Testfälle und Planung/Realisierung: Pfadextraktion und Recherche |
 | 7.03.2023  | 0.0.3   | Realisierung der Arbeitspakete Bearbeitung Kapitel 4                        |
+| 
 
 ## 1 Informieren
 
