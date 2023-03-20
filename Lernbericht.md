@@ -1,12 +1,14 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Lupin = Rebecca Willi, Filip Mitrovic, Tobin Pinto, Pascal Oestrich
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Unser Programm ist windowschschnitzeljagt spiel, indem man eine .txt Datei, die auf einem zufälligen Ort generiert finden muss.
 
 ## Was habe ich gelernt?
 
+ Wir haben gelernt, wie man in C# Dateiordner in den 6 Haubtorder (Desktop, Dokumente, Downloads, Bilder, Videos, Musik) auslesen kann.      /*und eine Datei zufällig in einen der Order abspeicher kann.*/
+ 
 ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 ## Beschreibung
