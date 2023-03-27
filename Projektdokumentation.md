@@ -131,8 +131,8 @@ Wir haben uns entschieden, dass wir eine WinForms Applikation schreiben, da wir 
 | 11.A | 14.03.2023  | Tobin Pinto                 |  2  |   1.5    | 
 | 12.A | 14.03.2023  | Pascal Oeswtrich & Tobin Pinto|  1  |   1    |
 | 13.A | 14.03.2023  | Tobin Pinto                   |  1  |   1    |
-| 14.A | 14.03.2023  |  Pascal Oestrich & Rebecca            |  2   |   2     |
-| 15.A |            |                             |    |       |
+| 14.A | 14.03.2023  |  Pascal Oestrich & Rebecca |  2   |   2     |
+| 15.A | 21.03.2023  |  Tobin Pinto    | 0.5 |    1  |
 
 
 ## 5 Kontrollieren
@@ -141,36 +141,36 @@ Wir haben uns entschieden, dass wir eine WinForms Applikation schreiben, da wir 
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| 2.1  |       |          |        |
-| 3.1  |       |          |        |
-| 4.1  |       |          |        |
-| 4.2  |       |          |        |
-| 5.1  |       |          |        |
-| 6.1  |       |          |        |
-| 6.2  |       |          |        |
-| 6.3  |       |          |        |
-| 7.1  |       |          |        |
-| 8.1  |       |          |        |
-| 8.2  |       |          |        |
-| 8.3  |       |          |        |
-| 9.1  |       |          |        |
-| 9.2  |       |          |        |
-| 9.3  |       |          |        |
-| 10.1 |       |          |        |
-| 10.2 |       |          |        |
-| 11.1 |       |          |        |
-| 11.2 |       |          |        |
-| 11.3 |       |          |        |
-| 12.1 |       |          |        |
-| 12.2 |       |          |        |
-| 13.1 |       |          |        |
-| 13.2 |       |          |        |
-| 14.1 |       |          |        |
-| 14.2 |       |          |        |
-| 15.1 |       |          |        |
+| 1.1  | 27.03.2023| OK (Weg wird jedoch auf Startbildschirm angezeigt)|Rebecca Willi|
+| 2.1  | 27.03.2023|  OK        |Rebecca Willi|
+| 3.1  | 27.03.2023|  OK        |Rebecca Willi|
+| 4.1  | 27.03.2023|  OK        |Rebecca Willi|
+| 4.2  | 27.03.2023|  OK        |Rebecca Willi|
+| 5.1  | 27.03.2023|  OK        |Rebecca Willi|
+| 6.1  | 27.03.2023|  OK        |Rebecca Willi|
+| 6.2  | 27.03.2023|  OK        |Rebecca Willi|
+| 6.3  | 27.03.2023|  OK        |Rebecca Willi|
+| 7.1  | 27.03.2023|  OK        |Rebecca Willi|
+| 8.1  | 27.03.2023|  NOK       |Rebecca Willi|
+| 8.2  | 27.03.2023|  NOK       |Rebecca Willi|
+| 8.3  | 27.03.2023|  NOK       |Rebecca Willi|
+| 9.1  | 27.03.2023|  NOK       |Rebecca Willi|
+| 9.2  | 27.03.2023|  NOK       |Rebecca Willi|
+| 9.3  | 27.03.3023|  NOK       |Rebecca Willi|
+| 10.1 | 27.03.2023|  NOK       |Rebecca Willi|
+| 10.2 | 27.03.2023|  NOK       |Rebecca Willi|
+| 11.1 | 27.03.2023|  NOK       |Rebecca Willi|
+| 11.2 | 27.03.2023|  NOK       |Rebecca Willi|
+| 11.3 | 27.03.2023|  OK        |Rebecca Willi|
+| 12.1 | 27.03.2023|  OK        |Rebecca Willi|
+| 12.2 | 27.03.2023|  NOK       |Rebecca Willi|
+| 13.1 | 27.03.2023|  OK        |Rebecca Willi|
+| 13.2 | 27.03.2023|  OK        |Rebecca Willi|
+| 14.1 | 27.03.2023|  OK        |Rebecca Willi|
+| 14.2 | 27.03.2023|  OK        |Rebecca Willi|
+| 15.1 | 27.03.2023|  NOK       |Rebecca Willi|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Das Programm läuft so, wie es von uns geplant war. An einigen Stellen haben wir Änderungen vorgenommen, weshalb diese nun nicht mehr mit den Testfällen übereinstimmen.
 
 ### 5.2 Exploratives Testen
 
