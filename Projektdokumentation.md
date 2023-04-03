@@ -9,6 +9,7 @@ Willi, Pinto, Oestrich, Mitrovic
 | 28.02.2023 | 0.0.2   | Userstorys Testfälle und Planung/Realisierung: Pfadextraktion und Recherche |
 | 7.03.2023  | 0.0.3   | Realisierung der Arbeitspakete Bearbeitung Kapitel 4                        |
 | 14.03.2023 | 0.0.4   | Realisierung der Arbeitspakete, Korrektur/Aufarbeitung Projektdokumentation | 
+| 21.03.2023 | 0.0.5   | Überarbeitung Code, Testen des Codes                                        | 
 
 
 ## 1 Informieren
@@ -172,14 +173,6 @@ Wir haben uns entschieden, dass wir eine WinForms Applikation schreiben, da wir 
 
 Das Programm läuft so, wie es von uns geplant war. An einigen Stellen haben wir Änderungen vorgenommen, weshalb diese nun nicht mehr mit den Testfällen übereinstimmen.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
