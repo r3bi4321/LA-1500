@@ -28,8 +28,8 @@ In vielen Projekten ist es wichtig verschiedene Pfade auslesen zu können, um al
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Unser Arbeitsprozess verlief reibungslos. Das Team hat gut zusammen gearbeitet und wir kamen mit unserem Projekt schnell voran. Jeder hat die Aufgaben erledigt, die ihm zugeteilt wurden.
 
-👎 und etwas, was nicht gut lief.
+Da das Team so gut funktioniert hat, waren wir sehr schnell, sodass wir fast zu wenige Arbeitspakete hatten und so Teammitglieder teilweise fast nichts zu tun hatten. Wir haben dann aber das Testen etwas vorgezogen und etwas mehr Zeit in die Präsentation investiert.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Für das nächste Mal müssten wir unbedingt mehr Arbeitspakete machen, sodass alle immer genug zu tun haben.
