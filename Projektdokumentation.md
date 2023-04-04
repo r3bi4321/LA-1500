@@ -10,6 +10,7 @@ Willi, Pinto, Oestrich, Mitrovic
 | 7.03.2023  | 0.0.3   | Realisierung der Arbeitspakete Bearbeitung Kapitel 4                        |
 | 14.03.2023 | 0.0.4   | Realisierung der Arbeitspakete, Korrektur/Aufarbeitung Projektdokumentation | 
 | 21.03.2023 | 0.0.5   | Überarbeitung Code, Testen des Codes                                        | 
+| 4.04.2023  | 0.0.6   | Bearbeitung Lernbericht                                                     |
 
 
 ## 1 Informieren
@@ -176,4 +177,4 @@ Das Programm läuft so, wie es von uns geplant war. An einigen Stellen haben wir
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/r3bi4321/LA-1500/blob/main/Lernbericht.md
