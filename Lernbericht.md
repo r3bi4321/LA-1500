@@ -17,7 +17,7 @@ In diesem Lerbericht erklären wir, was wir über das Auslesen on Pfade der 6 Ha
 
 ##Text
 In vielen Projekten ist es wichtig verschiedene Pfade auslesen zu können, um allenfalls Dateien an den Richitgen Ort abzuspeichern. Bei jeder Instalation von Windows, generiert Windows 6 Haubtorder auch **SpeacilFolder** gennant. Die haben jeweils einen eigenen Namen, somit ist der Name vom Ordner Dokumente **MyDocuments**. Dazu gibt es in C# eigene Methoden und Funktionen, die das Auslesen der Pfade ermöglicht. Um einen Pfad eines **SpecialFolders** auszulesen, bracht man die Methoden
-**Environmen** und **GetFolderPath**, wie auch die Funktion **SpecialFolder**. **Environmen** ruft alle Computerinformationen auf, zum Beispiel das Datum oder abgespeicherte Dateien. Die Methode **GetFolderPath** Gibt an, das der Rückgabewert ein Pfad von einer Datei oder Ordner sein soll.
+**Environmen** und **GetFolderPath**, wie auch die Funktion **SpecialFolder**. **Environmen** ruft alle Computerinformationen auf, zum Beispiel das Datum oder abgespeicherte Dateien. Die Methode **GetFolderPath** Gibt an, das der Rückgabewert ein Pfad von einer Datei oder Ordner sein soll. Mit diesen Angaben, sagt man dem Computer, "Computer gib mir einen Pfad aus, Computer gib mit den Pfad von SpecialFolder myDocuments aus".
  
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
