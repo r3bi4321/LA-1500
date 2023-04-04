@@ -16,6 +16,10 @@ namespace schnitztestwin
 
         bool start = true;
 
+        double highscore = 0;
+
+        int PlayerPoints = 0;
+
         private void button1_Click(object sender, EventArgs e)
         {
             
@@ -176,7 +180,58 @@ namespace schnitztestwin
             }
             else if (start == false)
             {
-                
+                string hi = label2.Text;
+
+                string[] timeList = hi.Split(":");
+
+                string hig = timeList[0] + timeList[1] + timeList[2];
+
+                double Zeit = Convert.ToDouble(hig);
+
+                label3.Text = Convert.ToString(Zeit);
+
+                if (Zeit <= highscore || highscore == 0)
+                {
+                    highscore = Zeit;
+                    label3.Text = hi;
+                }
+
+                PlayerPoints =  PlayerPoints + 10;
+
+
+                if (Zeit <= 100)
+                {
+                    
+                }
+                if (Zeit >= 100 && Zeit < 200)
+                {
+                    PlayerPoints--;
+                }
+                if (Zeit >= 200 && Zeit < 300)
+                {
+                    PlayerPoints--;
+                }
+                if (Zeit >= 330 && Zeit < 430)
+                {
+                    PlayerPoints--;
+                }
+                if (Zeit >= 430 && Zeit < 500)
+                {
+                    PlayerPoints--;
+                }
+                if (Zeit >= 530 && Zeit < 600)
+                {
+                    PlayerPoints--;
+                }
+                if (Zeit >= 600)
+                {
+                    PlayerPoints = 1;
+                }
+
+                label5.Text = Convert.ToString(PlayerPoints);
+
+
+
 
                 timer1.Stop();
 
@@ -195,9 +250,12 @@ namespace schnitztestwin
 
         }
 
+        
 
-        // Diese Funktion sucht und schreibt dateipfade.
-        static string[] durchsuchen(string ordner)
+
+
+            // Diese Funktion sucht und schreibt dateipfade.
+            static string[] durchsuchen(string ordner)
         {
             var pfad = Directory.GetDirectories(ordner);
 
@@ -232,6 +290,36 @@ namespace schnitztestwin
         {
 
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        //Kopiert von https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.messagebox?view=windowsdesktop-7.0
+
+        string message = "Um Das Spiel zu startet Drucker Auf den Start Knopf. " +
+            "Es werden dann Dateien Auf deinem Computer erstellt. Die erste Datei " +
+            "wird Auf dem Desktop erstellt in dieser befindet sich ein Hinweis, wo " +
+            "die Zweite Datei ist. Wenn man Auf den Start Knopf drückt, wird auch ein " +
+            "Timer gestartet. Wenn man die Zweite Datei gefunden hat, muss man den Start " +
+            "Knopf noch einmal Drücken um Das Spiel zu beenden. Dann wird Der Timer gestoppt " +
+            "und es werden punkte je nach Der Zeit vergeben. Die erstellten Dateien werden " +
+            "dabei auch gelöscht.";
+        string caption = "Tutorial";
+        MessageBoxButtons buttons = MessageBoxButtons.OK;
+        DialogResult result;
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            result = MessageBox.Show(message, caption, buttons);
+        }
+        //Bis hier kopiert
     }
     
 }
