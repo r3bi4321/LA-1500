@@ -3,7 +3,7 @@ Lupin = Rebecca Willi, Filip Mitrovic, Tobin Pinto, Pascal Oestrich
 
 ## Einleitung
 
-Unser Programm ist windowschschnitzeljagd Spiel, indem man eine .txt Datei, die auf einem zufälligen Ort generiert, finden muss.
+Unser Programm ist windowschschnitzeljagd-Spiel, indem man eine .txt Datei, die an einem zufälligen Ort generiert wurde, finden muss.
 
 ## Was habe ich gelernt?
 
@@ -16,9 +16,9 @@ In diesem Lernbericht erklären wir, was wir über das Auslesen von Pfade der 6 
 #### Text:
 In vielen Projekten ist es wichtig, verschiedene Pfade auslesen zu können, um allenfalls Dateien an den richtigen Ort abzuspeichern. Bei jeder Installation von Windows generiert Windows 6 Hauptordner auch `SpeacilFolder` genannt. Die haben jeweils einen eigenen Namen, somit ist der Name vom Ordner Dokumente MyDocuments.
 Dazu gibt es in C# eigene Methoden und Funktionen, die das Auslesen der Pfade ermöglicht. Um einen Pfad eines SpecialFolders auszulesen, braucht man die Methoden
-`Environment` und `GetFolderPath`, wie auch die Funktion `SpecialFolder`.
+`Environment` und `GetFolderPath`, wie auch die Funktion SpecialFolder.
 
-Environment ruft alle Computerinformationen auf, zum Beispiel das Datum oder abgespeicherte Dateien. Die Methode GetFolderPath gibt an, dass der Rückgabewert ein Pfad von einer Datei oder Ordner sein soll. Mit diesen Angaben, sagt man dem Computer, "Computer, gib mir einen Pfad aus, Computer gib mit dem Pfad von SpecialFolder myDocuments aus". Wenn man den Pfad eines Hauptordners hat, kann man die Pfade der Ordner, die in einem SpecialFolder sind, auslesen.
+Environment ruft alle Computerinformationen auf, zum Beispiel das Datum oder abgespeicherte Dateien. Die Methode GetFolderPath gibt an, dass der Rückgabewert ein Pfad von einer Datei oder Ordner sein soll. Mit diesen Angaben, sagt man dem Computer: "Computer, gib mir einen Pfad aus, Computer gib mit den Pfad von SpecialFolder myDocuments aus". Wenn man den Pfad eines Hauptordners hat, kann man die Pfade der Ordner, die in einem SpecialFolder sind, auslesen.
 
 Somit kann man den Code `Directory.GetDirectories(Pfad des Specialfolder)` schreiben und ausführen. `Directory.GetDirectories` gibt alle Pfade aller Ordner in dem erwähnten SpecialFolder aus. Die Pfade kann man dann schliesslich in einem Array oder einer Liste speichern.
  
