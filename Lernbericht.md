@@ -31,7 +31,11 @@ Somit kann man den Code `Directory.GetDirectories(Pfad des Specialfolder)` schre
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+* `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
+
+* `Code:` Dieser Code ist ein Beispiel, denn man für das Programm benutzen kann.
+
+* `Gif:` Das Gif dient zur Demonstration des Programmes.
 
 # Reflektion zum Arbeitsprozess
 
