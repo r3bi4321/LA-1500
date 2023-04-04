@@ -8,11 +8,10 @@ Unser Programm ist windowschschnitzeljagt spiel, indem man eine .txt Datei, die 
 ## Was habe ich gelernt?
 
  Wir haben gelernt, wie man in C# Dateiordner in den 6 Haubtorder (Desktop, Dokumente, Downloads, Bilder, Videos, Musik) auslesen kann.
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 ## Beschreibung
 In diesem Lerbericht erklären wir, was wir über das Auslesen on Pfade der 6 Haubtorder in C# gelernt haben.
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+
 
 ### Text
 In vielen Projekten ist es wichtig verschiedene Pfade auslesen zu können, um allenfalls Dateien an den Richitgen Ort abzuspeichern. Bei jeder Instalation von Windows, generiert Windows 6 Haubtorder auch **SpeacilFolder** gennant. Die haben jeweils einen eigenen Namen, somit ist der Name vom Ordner Dokumente **MyDocuments**. Dazu gibt es in C# eigene Methoden und Funktionen, die das Auslesen der Pfade ermöglicht. Um einen Pfad eines **SpecialFolders** auszulesen, bracht man die Methoden
@@ -23,6 +22,7 @@ In vielen Projekten ist es wichtig verschiedene Pfade auslesen zu können, um al
 ![image](https://user-images.githubusercontent.com/89131744/229720049-efd09555-4f83-4a57-8701-bdd05961de8e.png)
 
 ### GIF
+![giphy](https://user-images.githubusercontent.com/110892622/229720626-6e019881-c6f3-49f4-bb04-9600b9e40a00.gif)
 
 ## Verifikation
 
@@ -34,4 +34,4 @@ Unser Arbeitsprozess verlief reibungslos. Das Team hat gut zusammen gearbeitet u
 
 Da das Team so gut funktioniert hat, waren wir sehr schnell, sodass wir fast zu wenige Arbeitspakete hatten und so Teammitglieder teilweise fast nichts zu tun hatten. Wir haben dann aber das Testen etwas vorgezogen und etwas mehr Zeit in die Präsentation investiert.
 
-**VBV**: Für das nächste Mal müssten wir unbedingt mehr Arbeitspakete machen, sodass alle immer genug zu tun haben.
+**VBV**: Für das nächste Mal sollten wir unbedingt die Arbeitspakete besser verwalten und verteilen, sodass alle immer genug zu tun hätten.
