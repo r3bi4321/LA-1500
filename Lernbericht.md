@@ -7,8 +7,7 @@ Unser Programm ist windowschschnitzeljagt spiel, indem man eine .txt Datei, die 
 
 ## Was habe ich gelernt?
 
- Wir haben gelernt, wie man in C# Dateiordner in den 6 Haubtorder (Desktop, Dokumente, Downloads, Bilder, Videos, Musik) auslesen kann.      /*und eine Datei zufällig in einen der Order abspeicher kann.*/
- 
+ Wir haben gelernt, wie man in C# Dateiordner in den 6 Haubtorder (Desktop, Dokumente, Downloads, Bilder, Videos, Musik) auslesen kann.
 ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 ## Beschreibung
