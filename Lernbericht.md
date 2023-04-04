@@ -3,24 +3,24 @@ Lupin = Rebecca Willi, Filip Mitrovic, Tobin Pinto, Pascal Oestrich
 
 ## Einleitung
 
-Unser Programm ist windowschschnitzeljagt Spiel, indem man eine .txt Datei, die auf einem zufälligen Ort generiert, finden muss.
+Unser Programm ist windowschschnitzeljagd Spiel, indem man eine .txt Datei, die auf einem zufälligen Ort generiert, finden muss.
 
 ## Was habe ich gelernt?
 
- Wir haben gelernt, wie man in C# Dateiordner in den 6 Hauptorder (Desktop, Dokumente, Downloads, Bilder, Videos, Musik) auslesen kann.
+ Wir haben gelernt, wie man in C# Dateiordner in den 6 Hauptordner (Desktop, Dokumente, Downloads, Bilder, Videos, Musik) auslesen kann.
 
 ## Beschreibung
 In diesem Lernbericht erklären wir, was wir über das Auslesen von Pfade der 6 Hauptorder in `C#` gelernt haben.
 
 
 #### Text:
-In vielen Projekten ist es wichtig, verschiedene Pfade auslesen zu können, um allenfalls Dateien an den richtigen Ort abzuspeichern. Bei jeder Installation von Windows generiert Windows 6 Hauptorder auch `SpeacilFolder` genannt. Die haben jeweils einen eigenen Namen, somit ist der Name vom Ordner Dokumente MyDocuments.
+In vielen Projekten ist es wichtig, verschiedene Pfade auslesen zu können, um allenfalls Dateien an den richtigen Ort abzuspeichern. Bei jeder Installation von Windows generiert Windows 6 Hauptordner auch `SpeacilFolder` genannt. Die haben jeweils einen eigenen Namen, somit ist der Name vom Ordner Dokumente MyDocuments.
 Dazu gibt es in C# eigene Methoden und Funktionen, die das Auslesen der Pfade ermöglicht. Um einen Pfad eines SpecialFolders auszulesen, braucht man die Methoden
-`Environmen` und `GetFolderPath`, wie auch die Funktion `SpecialFolder`.
+`Environment` und `GetFolderPath`, wie auch die Funktion `SpecialFolder`.
 
-Environment ruft alle Computerinformationen auf, zum Beispiel das Datum oder abgespeicherte Dateien. Die Methode GetFolderPath gibt an, dass der Rückgabewert ein Pfad von einer Datei oder Ordner sein soll. Mit diesen Angaben, sagt man dem Computer, "Computer, gib mir einen Pfad aus, Computer gib mit dem Pfad von SpecialFolder myDocuments aus". Wenn man einen Pfad eines Hauptorder hat, kann man die Pfade der Ordner, die in einem SpecialFolder sind, auslesen.
+Environment ruft alle Computerinformationen auf, zum Beispiel das Datum oder abgespeicherte Dateien. Die Methode GetFolderPath gibt an, dass der Rückgabewert ein Pfad von einer Datei oder Ordner sein soll. Mit diesen Angaben, sagt man dem Computer, "Computer, gib mir einen Pfad aus, Computer gib mit dem Pfad von SpecialFolder myDocuments aus". Wenn man den Pfad eines Hauptordners hat, kann man die Pfade der Ordner, die in einem SpecialFolder sind, auslesen.
 
-Somit kann man den Code `Directory.GetDirectories(Pfad des Specialfolder)` schreiben und ausführe. `Directory.GetDirectories` gibt alle Pfade aller Ordner in dem erwähnten SpecialFolder aus. Die Pfade kann man dann schliesslich ich einem Array oder Liste speichern.
+Somit kann man den Code `Directory.GetDirectories(Pfad des Specialfolder)` schreiben und ausführen. `Directory.GetDirectories` gibt alle Pfade aller Ordner in dem erwähnten SpecialFolder aus. Die Pfade kann man dann schliesslich in einem Array oder einer Liste speichern.
  
 #### Bild:
 
@@ -39,8 +39,8 @@ Somit kann man den Code `Directory.GetDirectories(Pfad des Specialfolder)` schre
 
 # Reflektion zum Arbeitsprozess
 
-Unser Arbeitsprozess verlief reibungslos. Das Team hat gut zusammen gearbeitet und wir kamen mit unserem Projekt schnell voran. Jeder hat die Aufgaben erledigt, die ihm zugeteilt wurden.
+Unser Arbeitsprozess verlief reibungslos. Das Team hat gut zusammengearbeitet und wir kamen mit unserem Projekt schnell voran. Jeder hat die Aufgaben erledigt, die ihm zugeteilt wurden.
 
-Da das Team so gut funktioniert hat, waren wir sehr schnell, sodass wir fast zu wenige Arbeitspakete hatten und so Teammitglieder teilweise fast nichts zu tun hatten. Wir haben dann aber das Testen etwas vorgezogen und etwas mehr Zeit in die Präsentation investiert.
+Da das Team so gut funktioniert hat, waren wir sehr schnell, sodass wir fast zu wenig Arbeitspakete hatten und so Teammitglieder teilweise weniger zu tun hatten. Wir haben dann aber das Testen etwas vorgezogen und etwas mehr Zeit in die Präsentation investiert.
 
 **VBV**: Für das nächste Mal sollten wir unbedingt die Arbeitspakete besser verwalten und verteilen, sodass alle immer genug zu tun hätten.
