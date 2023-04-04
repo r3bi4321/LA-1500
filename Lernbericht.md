@@ -18,7 +18,7 @@ In vielen Projekten ist es wichtig, verschiedene Pfade auslesen zu können, um a
 Dazu gibt es in C# eigene Methoden und Funktionen, die das Auslesen der Pfade ermöglicht. Um einen Pfad eines SpecialFolders auszulesen, braucht man die Methoden
 `Environmen` und `GetFolderPath`, wie auch die Funktion `SpecialFolder`.
 
-Environmen ruft alle Computerinformationen auf, zum Beispiel das Datum oder abgespeicherte Dateien. Die Methode GetFolderPath gibt an, dass der Rückgabewert ein Pfad von einer Datei oder Ordner sein soll. Mit diesen Angaben, sagt man dem Computer, "Computer, gib mir einen Pfad aus, Computer gib mit dem Pfad von SpecialFolder myDocuments aus". Wenn man einen Pfad eines Hauptorder hat, kann man die Pfade der Ordner, die in einem SpecialFolder sind, auslesen.
+Environment ruft alle Computerinformationen auf, zum Beispiel das Datum oder abgespeicherte Dateien. Die Methode GetFolderPath gibt an, dass der Rückgabewert ein Pfad von einer Datei oder Ordner sein soll. Mit diesen Angaben, sagt man dem Computer, "Computer, gib mir einen Pfad aus, Computer gib mit dem Pfad von SpecialFolder myDocuments aus". Wenn man einen Pfad eines Hauptorder hat, kann man die Pfade der Ordner, die in einem SpecialFolder sind, auslesen.
 
 Somit kann man den Code `Directory.GetDirectories(Pfad des Specialfolder)` schreiben und ausführe. `Directory.GetDirectories` gibt alle Pfade aller Ordner in dem erwähnten SpecialFolder aus. Die Pfade kann man dann schliesslich ich einem Array oder Liste speichern.
  
@@ -31,9 +31,9 @@ Somit kann man den Code `Directory.GetDirectories(Pfad des Specialfolder)` schre
 
 ## Verifikation
 
-* `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
+* `Textbeschreibung:` Die Textbeschreibung beschreibt wie die pfade eines Hauptordners und die Pfade dessen Inhalte ausgelesen werden.
 
-* `Code:` Dieser Code ist ein Beispiel, denn man für das Programm benutzen kann.
+* `Bild vom Code:` Dieses Bild Zeigt, was Environment. GetFolderPath in diesem Bespiel ausgibt
 
 * `Gif:` Das Gif dient zur Demonstration des Programmes.
 
