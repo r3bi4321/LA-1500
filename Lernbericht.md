@@ -3,14 +3,14 @@ Lupin = Rebecca Willi, Filip Mitrovic, Tobin Pinto, Pascal Oestrich
 
 ## Einleitung
 
-Unser Programm ist windowschschnitzeljagt spiel, indem man eine .txt Datei, die auf einem zufälligen Ort generiert finden muss.
+Unser Programm ist windowschschnitzeljagt Spiel, indem man eine .txt Datei, die auf einem zufälligen Ort generiert, finden muss.
 
 ## Was habe ich gelernt?
 
- Wir haben gelernt, wie man in C# Dateiordner in den 6 Haubtorder (Desktop, Dokumente, Downloads, Bilder, Videos, Musik) auslesen kann.
+ Wir haben gelernt, wie man in C# Dateiordner in den 6 Hauptorder (Desktop, Dokumente, Downloads, Bilder, Videos, Musik) auslesen kann.
 
 ## Beschreibung
-In diesem Lerbericht erklären wir, was wir über das Auslesen on Pfade der 6 Haubtorder in `C#` gelernt haben.
+In diesem Lernbericht erklären wir, was wir über das Auslesen von Pfade der 6 Hauptorder in `C#` gelernt haben.
 
 
 #### Text:
