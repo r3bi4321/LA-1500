@@ -13,7 +13,7 @@ Unser Programm ist windowschschnitzeljagt spiel, indem man eine .txt Datei, die 
 In diesem Lerbericht erklären wir, was wir über das Auslesen on Pfade der 6 Haubtorder in `C#` gelernt haben.
 
 
-#### Text
+#### Text:
 In vielen Projekten ist es wichtig verschiedene Pfade auslesen zu können, um allenfalls Dateien an den Richitgen Ort abzuspeichern. Bei jeder Instalation von Windows, generiert Windows 6 Haubtorder auch `SpeacilFolder` gennant. Die haben jeweils einen eigenen Namen, somit ist der Name vom Ordner Dokumente MyDocuments.
 Dazu gibt es in C# eigene Methoden und Funktionen, die das Auslesen der Pfade ermöglicht. Um einen Pfad eines SpecialFolders auszulesen, bracht man die Methoden
 `Environmen` und `GetFolderPath`, wie auch die Funktion `SpecialFolder`.
@@ -22,11 +22,11 @@ Environmen ruft alle Computerinformationen auf, zum Beispiel das Datum oder abge
 
 Somit kann man den Code `Directory.GetDirectories(Pfad des Specialfolder)` schreiben und ausführe. `Directory.GetDirectories` gibt alle Pfade aller Ordner in dem erwähnten SpecialFolder aus. Die Pfade kann man dann schliesslich ich einen Array oder Liste speichern.
  
-#### Bild
+#### Bild:
 
 ![image](https://user-images.githubusercontent.com/89131744/229720049-efd09555-4f83-4a57-8701-bdd05961de8e.png)
 
-#### GIF
+#### GIF:
 ![giphy](https://user-images.githubusercontent.com/110892622/229720626-6e019881-c6f3-49f4-bb04-9600b9e40a00.gif)
 
 ## Verifikation
