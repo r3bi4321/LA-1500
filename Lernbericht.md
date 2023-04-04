@@ -19,6 +19,10 @@ In vielen Projekten ist es wichtig verschiedene Pfade auslesen zu können, um al
 **Environmen** und **GetFolderPath**, wie auch die Funktion **SpecialFolder**. **Environmen** ruft alle Computerinformationen auf, zum Beispiel das Datum oder abgespeicherte Dateien. Die Methode **GetFolderPath** Gibt an, das der Rückgabewert ein Pfad von einer Datei oder Ordner sein soll. Mit diesen Angaben, sagt man dem Computer, "Computer gib mir einen Pfad aus, Computer gib mit den Pfad von SpecialFolder myDocuments aus". Wenn man einen Pfad eines haubtorder hat, kann man die Pfade der Ordner, die in einem **SpecialFolder** sind auslesen. Somit kann man den Code **Directory.GetDirectories(*Pfad des Specialfolder*)** schreiben und ausführe. **(Directory.GetDirectories)** gibt alle Pfade aller Ordner in dem erwähnten **SpecialFolder** aus. Die Pfade kann man dann schliesslich ich einen Array oder Liste speichern.
  
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
+
+![image](https://user-images.githubusercontent.com/89131744/229720049-efd09555-4f83-4a57-8701-bdd05961de8e.png)
+
+
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
