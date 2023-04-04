@@ -35,7 +35,7 @@ Somit kann man den Code `Directory.GetDirectories(Pfad des Specialfolder)` schre
 
 * `Bild vom Code:` Dieses Bild Zeigt, was Environment. GetFolderPath in diesem Bespiel ausgibt.
 
-* `Gif:` Das Gif zeigt die Ausgabe aller Pfade der Hauptordner.
+* `Gif:` Das Gif zeigt die Ausgabe aller Pfade innerhalb eines Hauptordners.
 
 # Reflektion zum Arbeitsprozess
 
